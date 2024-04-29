@@ -12,4 +12,4 @@ I use this GitHub account to collaborate on mainstream opensource projects / non
 
 ## Codeberg:
 I use Codeberg to host mostly libre projects, which I create during my spare time. 
-Some of them result from my blog, Reclaimyour.tech, which I have set as an organization on that platform.
+Some of these projects result from my blog, Reclaimyour.tech
