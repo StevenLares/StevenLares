@@ -1,7 +1,7 @@
 # GitHub vs Codeberg:
 
 ## GitHub:
-I use this GitHub account to collaborate on mainstream opensource projects / non-libre software, to provide a simple portfolio, and to store some backups in private repos.
+I use this GitHub account to collaborate on some opensource projects / non-libre software, to provide a simple portfolio, and to store some backups in private repos.
 
 ## Codeberg:
 I use Codeberg to host mostly libre projects, which I create during my spare time. 
