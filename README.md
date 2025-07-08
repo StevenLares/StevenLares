@@ -13,3 +13,6 @@ https://codeberg.org/Reclaim-Your-Tech
 
 Public repos on my Codeberg account: 
 https://codeberg.org/StevenLares?tab=repositories
+
+## Additional Links: 
+https://stevenlares.github.io
