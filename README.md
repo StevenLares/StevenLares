@@ -1,9 +1,7 @@
-# GitHub vs Codeberg:
-
-## GitHub:
+# GitHub:
 I use this GitHub account to collaborate on some opensource projects / non-libre software, to provide a simple portfolio, and to store some backups in private repos.
 
-## Codeberg:
+# Codeberg:
 I use Codeberg to host mostly libre projects, which I create during my spare time. 
 Some of these projects result from my blog, Reclaimyour.tech. 
 In the future, I may migrate all of my public repos from Github to Codeberg.
@@ -14,5 +12,5 @@ https://codeberg.org/Reclaim-Your-Tech
 Public repos on my Codeberg account: 
 https://codeberg.org/StevenLares?tab=repositories
 
-## Additional Links: 
+# Additional Links: 
 https://stevenlares.github.io
