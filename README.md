@@ -12,5 +12,5 @@ https://codeberg.org/Reclaim-Your-Tech
 Public repos on my Codeberg account: 
 https://codeberg.org/StevenLares?tab=repositories
 
-# Additional Links: 
+# "Linktree": 
 https://stevenlares.github.io
