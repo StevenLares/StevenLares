@@ -1,16 +1,7 @@
-# GitHub:
-I use this GitHub account to collaborate on some opensource projects / non-libre software, to provide a simple portfolio, and to store some backups in private repos.
+# GitHub
+I am in the process of moving repos out of here. I plan on keeping a static page here just to take advantage of GitHub's high uptime.
 
-# Codeberg:
-I use Codeberg to host mostly libre projects, which I create during my spare time. 
-Some of these projects result from my blog, Reclaimyour.tech. 
-In the future, I may migrate all of my public repos from Github to Codeberg.
-
-Public repos created for my blog, Reclaimyour.tech: 
-https://codeberg.org/Reclaim-Your-Tech
-
-Public repos on my Codeberg account: 
-https://codeberg.org/StevenLares?tab=repositories
+Find my Codeberg and Gitlab in my "Linktree" page.
 
 # "Linktree": 
 https://stevenlares.github.io
