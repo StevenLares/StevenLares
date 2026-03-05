@@ -1,2 +1,7 @@
 # MicroSlop
-I only use this account to contribute to public repos on GitHub, and to host my neovim and keyboard configs.
+I only use this account to: 
+- contribute to public repos on GitHub
+- to host my neovim and keyboard configs
+- have high uptime for my adblock blocklist
+
+Otherwise I'd have deleted this a long time ago.
