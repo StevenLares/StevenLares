@@ -1,8 +1,4 @@
 # MicroSlop
-I only use this account to: 
-- contribute to and support public repos stuck on GitHub
-- host my neovim and keyboard configs
-- have high uptime for my adblock blocklist
-- host raw images for my personal blog hosted elsewhere
+This account is for contributions and for config hosting.
 
-Otherwise I'd have deleted this a long time ago.
+My real projects live in Codeberg, see my profile for details.
